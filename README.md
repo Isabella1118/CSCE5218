@@ -1,1 +1,3 @@
-# CSCE528
+# CSCE528 Deep Learning
+
+Spring 2024
